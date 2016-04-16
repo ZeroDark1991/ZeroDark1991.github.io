@@ -1,12 +1,12 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 gems:             [jekyll-paginate]
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            DarkFlow
+title:            Blue String
 tagline:          'Private Site'
 description:      '博主Web前端死宅一枚，兼Blues吉他迷，欢迎交流'
 url:              http://darkflow.cc
