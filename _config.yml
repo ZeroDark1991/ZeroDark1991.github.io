@@ -21,5 +21,5 @@ paginate:         5
 # Custom vars
 #version:          2.1.0
 
-github:           ZeroDark1991
-  url:           https://github.com/ZeroDark1991
+github:           https://github.com/ZeroDark1991
+#  repo:           https://github.com/ZeroDark1991
