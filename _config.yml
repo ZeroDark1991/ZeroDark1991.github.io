@@ -9,17 +9,17 @@ permalink:        pretty
 title:            DarkFlow
 tagline:          'Private Site'
 description:      '博主Web前端死宅一枚，兼Blues吉他迷，欢迎交流'
-url:              http://hyde.getpoole.com
+url:              http://darkflow.cc
 baseurl:          /
 
 author:
   name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  url:            https://github.com/ZeroDark1991
 
 paginate:         5
 
 # Custom vars
 #version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
+github:           ZeroDark1991
+  repo:           https://github.com/ZeroDark1991

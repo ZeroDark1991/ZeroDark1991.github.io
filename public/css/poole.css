@@ -259,7 +259,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.1rem;
   font-weight: 300;
 }
 
@@ -341,12 +341,12 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #262b33;
 }
 
 .post-title a{
   padding: .2rem;
-  background-image: -webkit-linear-gradient(left, transparent 50%, #c7cdd6 50%);
+  background-image: -webkit-linear-gradient(left, transparent 50%, #d3dce9 50%);
   background-size: 200%;
   -webkit-transition: background-position .3s;
   -o-transition: background-position .3s;
