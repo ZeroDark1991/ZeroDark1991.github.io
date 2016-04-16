@@ -13,7 +13,7 @@ url:              http://darkflow.cc
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'ZeroDark1991'
   url:            https://github.com/ZeroDark1991
 
 paginate:         5
@@ -22,4 +22,4 @@ paginate:         5
 #version:          2.1.0
 
 github:           ZeroDark1991
-  repo:           https://github.com/ZeroDark1991
+  url:           https://github.com/ZeroDark1991
