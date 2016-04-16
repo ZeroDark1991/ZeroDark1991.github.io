@@ -1,15 +1,14 @@
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
-
+gems:             [jekyll-paginate]
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            DarkFlow
+tagline:          'Private Site'
+description:      '博主Web前端死宅一枚，兼Blues吉他迷，欢迎交流'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
@@ -20,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+#version:          2.1.0
 
 github:
   repo:           https://github.com/poole/hyde
