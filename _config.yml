@@ -13,7 +13,7 @@ url:              http://darkflow.cc
 baseurl:          /
 
 author:
-  name:           'ZeroDark1991'
+  name:           'ZeroDark'
   url:            https://github.com/ZeroDark1991
 
 paginate:         5
