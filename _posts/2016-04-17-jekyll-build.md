@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 使用Jekyll快速搭建博客网站，并在本地环境下调试
-description: 如何在本地环境下使用Jekyll快速搭建博客网站，并在调试完成后上线并绑定自己的域名
+title: 使用Jekyll快速搭建博客网站
+description: 本文主要介绍如何使用Jekyll快速搭建博客网站，并在本地环境下在调试完成后上线，以及如何绑定自己的域名...
 ---
 
 ## 本地环境的搭建
