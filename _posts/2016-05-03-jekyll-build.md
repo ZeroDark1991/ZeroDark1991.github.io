@@ -9,7 +9,7 @@ description:常用到的一些知识或技巧的Note...
     185.31.16.184 github.global.ssl.fastly.net
     写入 /etc/hosts 文件
     
-#Node----    
+# Node----    
 ## #npm 淘宝镜像
     --registry=http://registry.npm.taobao.org
     
@@ -36,7 +36,7 @@ dir为安装的路径
 
 	$ nvm use v4.0.0
 
-#SSH----
+# SSH----
 --参考了阮一峰老师的文章
 
 查看ssh目录
