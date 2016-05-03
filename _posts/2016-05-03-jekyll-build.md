@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Some Skills
-description:常用到的一些知识或技巧的Note...
+title: 日常技巧笔记
+description:常用到的一些知识或技巧的笔记...
 ---
 
 ## #加速Github
